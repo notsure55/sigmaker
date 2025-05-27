@@ -1,5 +1,3 @@
-# sigmaker
-
 # sig maker for ghidra
 
 installation:
